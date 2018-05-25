@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">B-remote_UI</string>
+    <string name="paired_default_status">NONE</string>
+
+</resources>
